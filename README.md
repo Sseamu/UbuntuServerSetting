@@ -1,0 +1,2 @@
+# UbuntuServerSetting
+for ubuntu setting 
